@@ -65,10 +65,16 @@ The Financial Goal Tracking app is designed to assist users in managing and moni
 
 Ensure Flutter SDK is installed. [Flutter Installation Guide](https://flutter.dev/docs/get-started/install)
 
+### Video Demonstration:
+
+watch Vedio Of App.
+ [Video Link](https://drive.google.com/file/d/11JxX8TCWy1KW0hiILx-mE-PjY95K3yrd/view?usp=drive_link)
+
+
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/SATTIRAMYASRI
+git clone https://github.com/SATTIRAMYASRI/Financial-Goal-Tracking-App
 
 ## Running the Application
 
@@ -82,6 +88,4 @@ To run the application, follow these steps:
    flutter pub get
    flutter run
 
-### Video Demonstration
 
-https://drive.google.com/file/d/11JxX8TCWy1KW0hiILx-mE-PjY95K3yrd/view?usp=drive_link
